@@ -13,4 +13,7 @@ Fork 本仓库，然后点击你的仓库右上角的 Settings，找到 Secrets 
 
 ![VZ5E.png](https://img.xirikm.net/images/VZ5E.png)
 
-仓库内包含的 GitHub Actions 脚本每天会在国际标准时间 17 点（北京时间凌晨 1 点）自动执行，你也可以通过 `Push` 操作手动触发。
+仓库内包含的 GitHub Actions 脚本每天会在国际标准时间 17 点（北京时间凌晨 1 点）自动执行，你也可以通过 `Push` 操作手动触发
+。
+
+111
